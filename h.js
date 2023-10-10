@@ -5,7 +5,7 @@ console.log(c);
 console.log(typeof c)
 //example
 const dictionary = {
-  home: "place where we live",
+  home: "place where we use to live",
   school: "place where we study",
   look: "seeing somthing",
   pen: "instrument that write"
